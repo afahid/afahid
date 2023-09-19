@@ -51,9 +51,12 @@ A web application that allows users to buy products
 
 🌱 I’m currently learning:
 • NestJS
+
 📫 Contact Me:
+
 •
 www.linkedin.com/in/afehid
+
 •
 Email
 a.fehid@hotmail.com
