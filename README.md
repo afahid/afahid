@@ -2,6 +2,7 @@ Hello, I'm Ahmed Salah! 👋
 I'm a junior web developer passionate about crafting amazing web experiences using Node.js and modern technologies.
 🚀 Skills:
 • Node.js, JavaScript, ES6, Express.JS, MongoDB, MySQL, HTML5, CSS3
+
 💼 Projects:
 
 •
