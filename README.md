@@ -20,6 +20,8 @@ A web application that allows users to book their tours
 - MongoDB
 - JWT Authentication
 - NodeMailer
+
+
 •
 ##Project: E-Commerce App With AMIT Institute
 A web application that allows users to buy products
@@ -34,6 +36,8 @@ A web application that allows users to buy products
 - MongoDB
 - JWT Authentication
 - NodeMailer
+
+
 •
 ##Project: E-Commerce App Using SQL
 A web application that allows users to buy products
