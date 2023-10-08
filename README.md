@@ -39,7 +39,7 @@ A web application that allows users to buy products
 
 
 •
-##Project: E-Commerce App Using SQL
+##Project: Book-Store App Using PostgreSQL
 A web application that allows users to buy products
 ### Key Features:
 - Crud Operation
@@ -49,7 +49,7 @@ A web application that allows users to buy products
 ### Technologies Used:
 - Node.JS
 - Express.JS
-- MySQL
+- PostgreSQL
 - JWT Authentication
 - NodeMailer
 
