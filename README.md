@@ -1,6 +1,8 @@
 Hello, I'm Ahmed Salah! 👋
+
 I'm a web developer who is passionate about crafting amazing web experiences using Node.js, Nest.js and modern technologies.
 🚀 Skills:
+
 • TypeScript, NestJs, TypeORM, Node.js, Express.JS, JavaScript, MongoDB, MySQL, PostgreSQL HTML, CSS
 
 💼 Projects:
@@ -58,7 +60,7 @@ Build a web application that allows users to book tours using modern technologie
 - stripe
 
 •
-## Project: Book-Store App Using PostgreSQL
+## Project: BOOK-STORE APP USING NODE.JS AND POSTGRESQL
 
 Build a book-store shop web application using modern technologies: Node.js, Express, PostgreSQL, Mocha Testing, JWT Authentication, Auditing, Winston Logger, Stripe
 
