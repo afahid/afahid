@@ -1,5 +1,5 @@
 Hello, I'm Ahmed Salah! 👋
-I'm a junior web developer passionate about crafting amazing web experiences using Node.js, Nest.js and modern technologies.
+I'm a web developer who is passionate about crafting amazing web experiences using Node.js, Nest.js and modern technologies.
 🚀 Skills:
 • TypeScript, NestJs, TypeORM, Node.js, Express.JS, JavaScript, MongoDB, MySQL, PostgreSQL HTML, CSS
 
